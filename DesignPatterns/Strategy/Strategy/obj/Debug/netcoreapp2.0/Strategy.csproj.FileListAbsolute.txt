@@ -1,0 +1,11 @@
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.deps.json
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.runtimeconfig.json
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.runtimeconfig.dev.json
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.dll
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\bin\Debug\netcoreapp2.0\Strategy.pdb
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.csprojAssemblyReference.cache
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.csproj.CoreCompileInputs.cache
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.AssemblyInfoInputs.cache
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.AssemblyInfo.cs
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.dll
+F:\GitHubProjects\eQualoRepository\DesignPatterns\Strategy\Strategy\obj\Debug\netcoreapp2.0\Strategy.pdb
