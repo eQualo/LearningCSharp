@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+OOP_basic/OOP_basic1/06_Document/Program.cs
+OOP_basic/OOP_basic1/OOP_basic1.sln

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Document", "06_Document\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Document", "07_Document\07_Document.csproj", "{40362A75-6116-42DA-8C83-FA262F0FA5B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowingToSanya", "ShowingToSanya\ShowingToSanya.csproj", "{32BE7686-0B46-40E3-AF57-253E28A98771}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{40362A75-6116-42DA-8C83-FA262F0FA5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40362A75-6116-42DA-8C83-FA262F0FA5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40362A75-6116-42DA-8C83-FA262F0FA5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BE7686-0B46-40E3-AF57-253E28A98771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BE7686-0B46-40E3-AF57-253E28A98771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BE7686-0B46-40E3-AF57-253E28A98771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BE7686-0B46-40E3-AF57-253E28A98771}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

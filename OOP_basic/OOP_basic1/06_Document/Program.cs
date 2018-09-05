@@ -25,6 +25,7 @@ namespace _06_Document
             Document document = new Document(title, body, footer);
             document.Show();
 
+
             Console.ReadKey();
         }
     }
