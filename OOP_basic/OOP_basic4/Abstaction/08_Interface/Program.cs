@@ -10,6 +10,16 @@ namespace _08_Interface
     {
         static void Main(string[] args)
         {
+            DerivedClass instance = new DerivedClass();
+
+            //instance. - не видит методов интерфейса
+
+            //Для этого апкастим к базовому интерфейсному типу
+            IInterface1 instance1 = instance as IInterface1;
+            instance1.Method();
+
+            IInterface2 instance2 = instance as IInterface2;
+            instance2.Method();
         }
     }
 }
